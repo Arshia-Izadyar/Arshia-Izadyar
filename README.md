@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshia izadyar
-- 👀 I’m interested in Python 
+- 👀 I’m a backend developer
 - 🌱 I’m currently a computer engineering student
 
 <!---
