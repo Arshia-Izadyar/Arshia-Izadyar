@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arshia izadyar
-- 👀 I’m a backend developer
-- 🌱 I’m currently a computer engineering student
+- 👀 I’m a Python
+- 🌱 currently a computer engineering student
+- love to learn new things
 
 <!---
 arshiaa104/arshiaa104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
