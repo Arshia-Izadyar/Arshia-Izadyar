@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshia izadyar
-- 👀 I’m a Python
+- 👀 I’m a Python developer
 - 🌱 currently a computer engineering student
 - ❤️ love to learn new things
 
