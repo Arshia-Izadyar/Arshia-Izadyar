@@ -6,7 +6,7 @@ i've been learning to code for 2 years. i'm a Django backend developer and a par
 * 🌍  I'm based in Iran, Tehran
 * ✉️  You can contact me at [arshiaa104@gmail.com](mailto:arshiaa104@gmail.com)
 * 🧠  I'm learning python Flask, C++
-* ⚡  trying to be a game developer !!
+* ⚡  trying to be a better developer !!
 
 ### Skills
 
