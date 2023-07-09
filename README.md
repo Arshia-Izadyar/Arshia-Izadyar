@@ -25,20 +25,6 @@ Welcome to my GitHub profile! I'm a computer engineering student with a keen int
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar&theme=dark)](https://git.io/streak-stats)
 
 
-### 🚀 Projects
-
-Here are some of my highlighted projects:
-
-- [Blog API](https://github.com/Arshia-Izadyar/Blog-API): An API to manage blog content built using Django Rest Framework. This project showcases my expertise in Python and Django.
-
-- [Web Scraping News API](https://github.com/Arshia-Izadyar/Web-Scraping-News-API): A web scraping application using Celery to fetch and process news articles from different sources. This project demonstrates my skills in web scraping and asynchronous task handling.
-
-- [IMDb Clone](https://github.com/Arshia-Izadyar/imdb-clone): A clone of the popular movie and TV show database IMDb. This project allows users to browse and discover information about movies and TV shows. It showcases my ability to build database-driven web applications.
-
-- [Flappy Bird Clone](https://github.com/Arshia-Izadyar/flappy-bird-clone): A clone of the addictive mobile game Flappy Bird. This project highlights my proficiency in game development and showcases my interest in building interactive applications.
-
-Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
-
 ### 📊 GitHub Stats
 
 ![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Izadyar&show_icons=true&count_private=true&theme=dark)
@@ -53,6 +39,16 @@ Feel free to explore these projects and don't forget to leave a ⭐ if you find 
 
 I'm always open to collaboration and feedback, so feel free to reach out to me via email at arshia@example.com.
 
-### 💡 Fun Fact
+### 🚀 Projects
 
-"There are three ways to write error-free programs; only the fourth one works." 😉
+Here are some of my highlighted projects:
+
+- [Blog API](https://github.com/Arshia-Izadyar/Blog-API): An API to manage blog content built using Django Rest Framework. This project showcases my expertise in Python and Django.
+
+- [Web Scraping News API](https://github.com/Arshia-Izadyar/Web-Scraping-News-API): A web scraping application using Celery to fetch and process news articles from different sources. This project demonstrates my skills in web scraping and asynchronous task handling.
+
+- [IMDb Clone](https://github.com/Arshia-Izadyar/imdb-clone): A clone of the popular movie and TV show database IMDb. This project allows users to browse and discover information about movies and TV shows. It showcases my ability to build database-driven web applications.
+
+- [Flappy Bird Clone](https://github.com/Arshia-Izadyar/flappy-bird-clone): A clone of the addictive mobile game Flappy Bird. This project highlights my proficiency in game development and showcases my interest in building interactive applications.
+
+Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
