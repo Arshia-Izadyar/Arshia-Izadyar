@@ -52,3 +52,5 @@ Here are some of my highlighted projects:
 - [Flappy Bird Clone](https://github.com/Arshia-Izadyar/flappy-bird-clone): A clone of the addictive mobile game Flappy Bird. This project highlights my proficiency in game development and showcases my interest in building interactive applications.
 
 Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
+
+More projects are pinned belowe
