@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask/C++**
 
-- 📝 I regularly write articles on <a href="www.vigiato.com">vigiato.com</a>
+- 📝 I regularly write articles on <a href="[www.vigiato.com](https://vigiato.net/)">vigiato.com</a>
 
 - 💬 Ask me about **Python, Django, Golang**
 
