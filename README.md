@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a computer engineering student with a keen int
 <p align="left"> <a href="https://discord.com/users/JackDaw#0880" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Arshia-Izadyar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 
-I'm always open to collaboration and feedback, so feel free to reach out to me via email at arshia@example.com.
+I'm always open to collaboration and feedback, so feel free to reach out to me via email at arshiaa104@gmail.com.
 
 ### 🚀 Projects
 
