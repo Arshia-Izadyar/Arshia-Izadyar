@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshia Izadyar</h1>
-<h3 align="center">A computer engineering student and Back-End developer</h3>
+<h3 align="center">Computer engineering student and Back-End developer</h3>
 
 - 🌱 I’m currently learning **Flask/C++**
 
