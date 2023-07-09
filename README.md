@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arshia Izadyar</h1>
 <h3 align="center">A computer engineering student and Back-End developer</h3>
 
-- 🌱 I’m currently learning **Random things that interests me (C++)**
+- 🌱 I’m currently learning **Flask/C++**
 
 - 📝 I regularly write articles on [www.vigiato.com](www.vigiato.com)
 
-- 💬 Ask me about **Python, Django, maybe IOT**
+- 💬 Ask me about **Python, Django, Golang**
 
 - 📫 How to reach me **arshiaa104@gmail.com**
+- ⚡ I'm a **Programmer By day, Gamer By Night**
 
 
 
