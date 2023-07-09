@@ -19,11 +19,9 @@
 
 
 
-### Random info
+### Github status 
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshia-izadyar&theme=algolia&hide_border=true)
 
-<b>My GitHub Stats</b>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshia-izadyar&show_icons=true&theme=tokyonight&title_color=d90000&cache_seconds=1800&locale=en" alt="arshia-izadyar" /></p>
 
 
 
