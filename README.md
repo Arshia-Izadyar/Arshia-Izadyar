@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a computer engineering student with a keen int
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats
