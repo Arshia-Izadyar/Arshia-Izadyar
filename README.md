@@ -53,4 +53,4 @@ Here are some of my highlighted projects:
 
 Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
 
-More projects are pinned belowe
+More projects are pinned below
