@@ -47,7 +47,7 @@ Here are some of my highlighted projects:
 
 - [Web Scraping News API](https://github.com/Arshia-Izadyar/Web-Scraping-News-API): A web scraping application using Celery to fetch and process news articles from different sources. This project demonstrates my skills in web scraping and asynchronous task handling.
 
-- [IMDb Clone](https://github.com/Arshia-Izadyar/imdb-clone): A clone of the popular movie and TV show database IMDb. This project allows users to browse and discover information about movies and TV shows. It showcases my ability to build database-driven web applications.
+- [Divar Clone](https://github.com/Arshia-Izadyar/Clone-Divar): A clone of the popular advertise posting website Divar.ir / craigslist.org. This project allows users to browse and discover information about different advertisements. It showcases my ability to build database-driven web applications.
 
 - [Flappy Bird Clone](https://github.com/Arshia-Izadyar/flappy-bird-clone): A clone of the addictive mobile game Flappy Bird. This project highlights my proficiency in game development and showcases my interest in building interactive applications.
 
