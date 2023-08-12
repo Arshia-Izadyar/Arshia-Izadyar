@@ -23,13 +23,11 @@ Welcome to my GitHub profile! I'm a computer engineering student with a keen int
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats
 
-![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Izadyar&show_icons=true&count_private=true)
-
-
+![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Izadyar&show_icons=true&count_private=true&hide=contribs,prs,issues&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
