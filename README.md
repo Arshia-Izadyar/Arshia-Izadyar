@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arshia Izadyar</h1>
 <h3 align="center">Computer engineering student and Back-End developer</h3>
 
-Welcome to my GitHub profile! I'm a computer engineering student with a keen interest in Back-end web development and IoT. I love working with Python and Django, and I'm currently exploring Random things. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
+Welcome to my GitHub profile! I'm a python | GoLang | backend developer and computer engineering student with a keen interest in Back-end web development and IoT. I love working with python and Golang, and I'm currently exploring Random things to expand my skills. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang/Rust**
 
 - 📝 I regularly write articles on <a href="https://vigiato.net">Vigiato.net</a>
 
