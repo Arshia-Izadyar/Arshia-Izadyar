@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a python | GoLang | backend developer and computer engineering student with a keen interest in Back-end web development and IoT. I love working with python and Golang, I'm currently exploring Random things to expand my skills. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
 
 
-- 🌱 I’m currently learning **Golang/Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on <a href="https://vigiato.net">Vigiato.net</a>
 
