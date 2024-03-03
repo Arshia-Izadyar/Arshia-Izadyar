@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia Izadyar</h1>
 <h3 align="center">Computer engineering student and Back-End developer</h3>
 
-Welcome to my GitHub profile! I'm a python | GoLang | backend developer and computer engineering student with a keen interest in Back-end web development and IoT. I love working with python and Golang, I'm currently exploring Random things to expand my skills. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
+Welcome to my GitHub profile! I'm a GoLang Backend dev and computer engineering student with a keen interest in Golang and cyber security. I'm currently exploring Random things to expand my skills. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
 
 
 - 🌱 I’m currently learning **Rust**
@@ -39,16 +39,5 @@ I'm always open to collaboration and feedback, so feel free to reach out to me v
 
 ### 🚀 Projects
 
-Here are some of my highlighted projects:
-
-- [Blog API](https://github.com/Arshia-Izadyar/Blog-API): An API to manage blog content built using Django Rest Framework. This project showcases my expertise in Python and Django.
-
-- [Web Scraping News API](https://github.com/Arshia-Izadyar/Web-Scraping-News-API): A web scraping application using Celery to fetch and process news articles from different sources. This project demonstrates my skills in web scraping and asynchronous task handling.
-
-- [Divar Clone](https://github.com/Arshia-Izadyar/Clone-Divar): A clone of the popular advertise posting website Divar.ir / craigslist.org. This project allows users to browse and discover information about different advertisements. It showcases my ability to build database-driven web applications.
-
-- [Flappy Bird Clone](https://github.com/Arshia-Izadyar/flappy-bird-clone): A clone of the addictive mobile game Flappy Bird. This project highlights my proficiency in game development and showcases my interest in building interactive applications.
-
 Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
 
-More projects are pinned below
