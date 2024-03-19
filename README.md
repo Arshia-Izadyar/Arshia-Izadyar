@@ -21,15 +21,6 @@ Welcome to my GitHub profile! I'm a GoLang Backend dev and computer engineering 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arshia-Izadyar&theme=tokyonight)](https://git.io/streak-stats)
-
-### 📊 GitHub Stats
-
-![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Izadyar&show_icons=true&count_private=true&hide=contribs,prs,issues&theme=tokyonight)
-
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://discord.com/users/JackDaw#0880" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Arshia-Izadyar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
