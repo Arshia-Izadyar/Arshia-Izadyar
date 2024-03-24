@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a GoLang Backend dev and computer engineering 
 - 📫 How to reach me **arshiaa104@gmail.com**
 - ⚡ I'm a **Programmer By day, Gamer By Night**
 
+## Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arshia-izadyar&theme=dark)](https://git.io/streak-stats)
 
 
 
