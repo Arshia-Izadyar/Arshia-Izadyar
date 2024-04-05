@@ -4,16 +4,11 @@
 Welcome to my GitHub profile! I'm a GoLang Backend dev and computer engineering student with a keen interest in Golang and cyber security. I'm currently exploring Random things to expand my skills. On this platform, you'll find a collection of my projects, contributions, and continuous learning experiences. 🚀
 
 
-- 🌱 I’m currently learning **Rust**
-
 - 📝 I regularly write articles on <a href="https://vigiato.net">Vigiato.net</a>
 
-- 💬 Ask me about **Python, Django, Golang**
+- 💬 Ask me about **Ts, Golang**
 
 - 📫 How to reach me **arshiaa104@gmail.com**
-- ⚡ I'm a **Programmer By day, Gamer By Night**
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -23,7 +18,6 @@ Welcome to my GitHub profile! I'm a GoLang Backend dev and computer engineering 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://discord.com/users/JackDaw#0880" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Arshia-Izadyar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 
 I'm always open to collaboration and feedback, so feel free to reach out to me via email at arshiaa104@gmail.com.
 
