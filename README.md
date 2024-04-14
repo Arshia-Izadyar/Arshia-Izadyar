@@ -17,4 +17,3 @@ I'm always open to collaboration and feedback, so feel free to reach out to me v
 ### 🚀 Projects
 
 Feel free to explore these projects and don't forget to leave a ⭐ if you find them interesting!
-
