@@ -1,8 +1,7 @@
 
 # Hello There!
 
-### I’m a software developer, a hacker, and a giant nerd, Ask me stuff!
-
+### I’m a SWE, a hacker, and a giant nerd. Ask me stuff!  
 
 ### interested in CyberSec && GameDev.
 
