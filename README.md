@@ -3,10 +3,7 @@
 
 ### I’m a SWE, a hacker, and a giant nerd. Ask me stuff!  
 
-### interested in CyberSec && GameDev.
-
+### interested in Game-Development && Computer-Graphics.
 
 ### Go developer. Open Source enthusiast.
-
-I'm always open to collaboration and feedback, so feel free to reach out to me via email at arshiaa104@gmail.com.
 
