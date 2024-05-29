@@ -6,6 +6,6 @@
 
 ### Interested in Game-Development && Computer-Graphics.
 
-### Go developer ( maybe C \_(-.-)_/ ) . Open Source enthusiast.
+### Go developer ( maybe C \\_(-.-)_/ ) . Open Source enthusiast.
 
 ### Currently learning computer graphics :)
