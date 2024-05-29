@@ -1,8 +1,10 @@
 
-# Hello There!
+# Hello There! // Obi-one kenobi Tone
 
-### I’m a SWE, a hacker and a giant nerd. Ask me stuff!  
+###  I’m a SWE, a hacker and a giant nerd. Ask me stuff!  
 
-### interested in Game-Development && Computer-Graphics.
+### Interested in Game-Development && Computer-Graphics.
 
-### Go developer. Open Source enthusiast.
+### Go developer ( maybe C \_(-.-)_/ ) . Open Source enthusiast.
+
+### Currently learning computer graphics :)
