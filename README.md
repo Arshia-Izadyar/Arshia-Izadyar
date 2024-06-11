@@ -9,5 +9,3 @@
 ### Go developer ( maybe C \\\_(-.-)\_/ ) . Open Source enthusiast.
 
 ### Currently learning computer graphics :)
-
-"
