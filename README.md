@@ -2,7 +2,6 @@ low-level / ML
 
 ***__Intelligence__*** is the ability to solve hard problems and ***__wisdom__*** is knowing which problems to solve.
 
-you have the capacity to be great, But don't sacrifice something good in value.
 
 Make sure you spend quality time with your loved ones. 
 Make your friends and family laugh.
