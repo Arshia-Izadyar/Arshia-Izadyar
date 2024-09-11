@@ -1,4 +1,4 @@
-low-level / ML.
+low-level / ML
 
 ***__Intelligence__*** is the ability to solve hard problems and ***__wisdom__*** is knowing which problems to solve.
 
