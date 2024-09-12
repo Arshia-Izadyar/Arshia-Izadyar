@@ -11,4 +11,4 @@ If you think I can help you with anything or you just want to chat feel free To 
 
 I share cool Books and courses that I read / watch [here](https://rshia.bearblog.dev).
 
-I pinned some useful repose i found insted of showing-off my shitty CRUD app
+I pinned some useful repose i found insted of showing-off my shitty CRUD app.
